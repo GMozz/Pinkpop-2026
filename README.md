@@ -2,11 +2,25 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Pinkpop 2026 Timetable App
 
-This contains everything you need to run your app locally.
+This application provides a comprehensive timetable for the Dutch festival Pinkpop 2026. 
 
-View your app in AI Studio: https://ai.studio/apps/fe6cd816-d5c8-4495-ba92-4873d50b333c
+## Features
+- **Daily Overview:** Get a clear, organized view of the schedule for each day.
+- **Stage Filtering:** Easily filter the lineup by specific stages.
+- **Favorites & Notifications:** Mark artists as your favorites and receive a notification 30 minutes before their performance starts.
+- **Artist Details:** Direct punch-out links to the official festival website to read more about the artists.
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/Screenshot_20260608_152253.png" width="200" />
+  <img src="screenshots/Screenshot_20260608_152257.png" width="200" />
+  <img src="screenshots/Screenshot_20260608_152307.png" width="200" />
+  <img src="screenshots/Screenshot_20260608_152318.png" width="200" />
+  <img src="screenshots/Screenshot_20260608_152339.png" width="200" />
+</p>
 
 ## Run Locally
 
