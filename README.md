@@ -4,7 +4,13 @@
 
 # Pinkpop 2026 Timetable App
 
-This application provides a comprehensive timetable for the Dutch festival Pinkpop 2026. 
+This application provides a comprehensive timetable for the Dutch festival Pinkpop 2026.
+
+## Background and Goals
+
+This app was created as an experiment to test the capabilities of **Google's AI Studio**. The primary goal was to see how well a fully functional Android application could be built using *only prompts*, with absolutely zero manual coding involved. Furthermore, this was achieved using only the **Gemini 3.5 Flash** model (not the Pro version).
+
+The entire application was finished within a couple of hours. After the initial prompt provided the foundation, the app was refined through a series of small, targeted prompts to adjust specific details. Interestingly, the most challenging part of the project wasn't the coding itself, but rather sourcing and formatting the correct data for the Pinkpop festival lineup.
 
 ## Features
 - **Daily Overview:** Get a clear, organized view of the schedule for each day.
